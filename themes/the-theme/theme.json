@@ -1,0 +1,18 @@
+{
+  "code": "the-theme",
+  "name": "The theme",
+  "description": "Free Modern, Responsive and Clean TastyIgniter Theme based on Bootstrap 4.",
+  "version": "v2.9.0",
+  "author": "Tarik & Pajam",
+  "locked": true,
+  "require": {
+    "igniter.cart": "*",
+    "igniter.coupons": "*",
+    "igniter.frontend": "*",
+    "igniter.local": "*",
+    "igniter.pages": "*",
+    "igniter.payregister": "*",
+    "igniter.reservation": "*",
+    "igniter.user": "*"
+  }
+}

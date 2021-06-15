@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'debug' => FALSE,
+    'debug' => TRUE,
 
     /*
     |--------------------------------------------------------------------------
@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/',
+    'url' => 'http://tastyigniter.test/',
 
     /*
     |--------------------------------------------------------------------------
@@ -104,7 +104,7 @@ return [
     |
     */
 
-    'key' => 'CHANGE!!!!!!!!!!!!!!!!!!!!!!!!!',
+    'key' => 'base64:quie2fPgHyDH3EmYIVH7OaW682luX2DVKKUqypbF8lA=',
 
     'cipher' => 'AES-256-CBC',
 
